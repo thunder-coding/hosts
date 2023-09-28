@@ -1,0 +1,7 @@
+# Sites which are blocked due to ego issued
+0.0.0.0 nohello.net
+0.0.0.0 nohello.com
+0.0.0.0 nohello.club
+0.0.0.0 lmgtfy.app
+0.0.0.0 letmegooglethat.com
+0.0.0.0 googlethatforyou.com
