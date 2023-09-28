@@ -1,4 +1,4 @@
-# Sites which are blocked due to ego issued
+# Sites which are blocked due to ego issues
 0.0.0.0 nohello.net
 0.0.0.0 nohello.com
 0.0.0.0 nohello.club
