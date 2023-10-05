@@ -5,7 +5,11 @@
 # Although I would like to block github entirely, github.com needs to be in allow list so that i can push this list to github
 # github.com
 api.github.com
+alive.github.com
 live.github.com
+github.githubassets.com
+avatars.githubusercontent.com
+camo.githubusercontent.com
 
 # Matrix
 matrix.org
