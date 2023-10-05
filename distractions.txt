@@ -1,0 +1,72 @@
+# To prevent myself from distracting at all
+# Social media sites are out of scope of this as they are already included in various other filter lists already
+
+# GitHub
+# Although I would like to block github entirely, github.com needs to be in allow list so that i can push this list to github
+# github.com
+api.github.com
+live.github.com
+
+# Matrix
+matrix.org
+matrix.to
+matrix-client.matrix.org
+element.io
+app.element.io
+
+# GitLab
+gitlab.com
+gitlab.io
+
+# News
+phoronix.com
+news.ycombinator.com
+lobste.rs
+slashdot.org
+news.google.com
+
+# Mastodon (not blocked by most filter lists)
+mastodon.social
+mastodon.online
+mastodon.xyz
+fosstodon.orginfosec.exchange
+
+# Programming stuff
+nodejs.org
+nodejs.dev
+python.org
+typescriptlang.org
+rust-lang.org
+llvm.org
+termux.dev
+termux.com
+termux.org
+termux.net
+termux.club
+stackoverflow.com
+# Can be unblocked temporary as per need, but block entirely unless needed to
+archlinux.org
+wiki.archlinux.org
+
+torproject.org
+check.torproject.org
+ubuntu.com
+debian.org
+kali.org
+youtube.com
+m.youtube.com
+
+# Games and stuff. I will fucking miss you
+chess.com
+lichess.org
+chess24.com
+chessbase.com
+ 
+# Block my own website, no self admiration. You suck and you have to improve
+cd.is-a.dev
+
+# Block WA and stuff
+web.whatsapp.com
+
+# I hate myself
+mozilla.org
