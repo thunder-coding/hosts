@@ -16,7 +16,21 @@ app.element.io
 
 # GitLab
 gitlab.com
-gitlab.io
+gitlab.com
+
+codeberg.org
+git-scm.com
+linux.org
+kernel.org
+
+# Package repositories
+npmjs.com
+npmjs.org
+npm.io
+lib.rs
+crates.io
+pypi.org
+
 
 # News
 phoronix.com
