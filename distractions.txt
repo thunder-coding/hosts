@@ -71,6 +71,7 @@ check.torproject.org
 ubuntu.com
 debian.org
 kali.org
+www.youtube.com
 youtube.com
 m.youtube.com
 
