@@ -18,6 +18,11 @@ matrix-client.matrix.org
 element.io
 app.element.io
 
+# Reddit
+www.reddit.com
+reddit.com
+old.reddit.com
+
 # GitLab
 gitlab.com
 gitlab.com
