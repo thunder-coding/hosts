@@ -40,6 +40,9 @@ lib.rs
 crates.io
 pypi.org
 
+# Discord
+discord.com
+discord.gg
 
 # News
 phoronix.com
