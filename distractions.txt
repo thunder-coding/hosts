@@ -95,5 +95,3 @@ cd.is-a.dev
 # Block WA and stuff
 web.whatsapp.com
 
-# I hate myself
-mozilla.org
