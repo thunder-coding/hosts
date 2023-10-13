@@ -70,6 +70,13 @@ termux.org
 termux.net
 termux.club
 stackoverflow.com
+serverfault.com
+superuser.com
+blog.cloudflare.com
+blog.github.com
+zdnet.com
+radar.cloudflare.com
+
 # Can be unblocked temporary as per need, but block entirely unless needed to
 archlinux.org
 wiki.archlinux.org
