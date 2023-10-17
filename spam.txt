@@ -1,4 +1,4 @@
-tripshrip.com
-mc.tripshrip.com
-centraleducation.in
-updates.centraleducation.in
+0.0.0.0 tripshrip.com
+0.0.0.0 mc.tripshrip.com
+0.0.0.0 centraleducation.in
+0.0.0.0 updates.centraleducation.in

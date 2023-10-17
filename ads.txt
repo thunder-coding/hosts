@@ -1,4 +1,4 @@
-phenixads.com
-www.phenixads.com
-intellectmedia.net
-www.intellectmedia.net
+0.0.0.0 phenixads.com
+0.0.0.0 www.phenixads.com
+0.0.0.0 intellectmedia.net
+0.0.0.0 www.intellectmedia.net
