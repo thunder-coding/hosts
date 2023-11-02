@@ -8,3 +8,7 @@
 
 # The worst search engine nowadays
 google.com
+
+# Even when setting NTP servers to time.cloudflare.com, Android still tries to reach android.pool.ntp.org
+# pDNSf blocks all subdomains as well, so no need to blacklist all of the {0-5}.android.pool.ntp.org
+pool.ntp.org
